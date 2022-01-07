@@ -7,3 +7,5 @@ Un blog increible para el curso del Git y Github de Platzi
 * El flujo de trabajo de GitHub
 * El verdadero amor por la buenas practicas
 * Creado por el increible Platzi team
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponivle para todas las edades
